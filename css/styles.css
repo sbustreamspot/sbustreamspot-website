@@ -27,7 +27,13 @@ html {
   font-size: 2rem;
   margin: 4rem auto;
   text-align: left;
-  width: 60rem;
+  width: 65%;
+}
+
+@media (max-width:481px) {
+  .summary {
+    width: 80%;
+  }
 }
 
 .code-links {
