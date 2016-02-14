@@ -1,0 +1,31 @@
+.header {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.title {
+  display: inline;
+  line-height: 75px;
+  margin-left: 1rem;
+  vertical-align: top;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+.subtitle {
+  margin-top: 1rem;
+}
+
+.summary {
+  color: #333;
+  font-size: 2rem;
+  margin: 4rem auto;
+  text-align: left;
+  width: 60rem;
+}
+
+.code-links {
+  text-align: center;
+}
