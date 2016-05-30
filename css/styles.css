@@ -2,6 +2,20 @@ html {
   font-family: Arial, sans-serif;
 }
 
+.alert {
+  background-color: #D5F5E3;
+  border: 1px solid;
+  border-color: #2ECC71;
+  color: #2C7635;
+  padding: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.alert a {
+  color: #2C7635;
+}
+
 .header {
   margin-top: 4rem;
   text-align: center;
