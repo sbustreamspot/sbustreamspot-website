@@ -39,7 +39,7 @@ html {
 .summary {
   color: #333;
   font-size: 2rem;
-  margin: 4rem auto;
+  margin: 2rem auto;
   text-align: left;
   width: 65%;
 }
@@ -51,7 +51,7 @@ html {
 }
 
 .code-links {
-  margin: 1em auto;
+  margin: 0.5rem auto;
   text-align: center;
 }
 
