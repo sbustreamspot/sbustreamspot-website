@@ -1,6 +1,6 @@
 # StreamSpot Website
 
-<img src="http://www3.cs.stonybrook.edu/~emanzoor/streamspot/img/streamspot-logo.jpg" height="150" align="right"/>
+<img src="https://github.com/sbustreamspot/sbustreamspot.github.io/raw/master/img/streamspot-logo.jpg" height="150" align="right"/>
 
 [https://sbustreamspot.github.io/](https://sbustreamspot.github.io/)
 
